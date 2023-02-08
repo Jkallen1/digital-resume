@@ -1,0 +1,47 @@
+body {
+    background: rgb(239, 242, 245);
+    color: rgba(25, 119, 242, 0.763);
+
+}
+
+h1 {
+    text-align: center;
+ }
+
+ p{
+    font-size: 20px;
+ }
+
+ img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 350px;
+ }
+
+ ul li {
+    font-size: 16px;
+ }
+
+
+ .education {
+    display: flex;
+    justify-content: start;
+    
+}
+
+.work-history {
+    display: flex;
+    justify-content: center;
+    margin-top: -125px;
+}
+
+.skills {
+    display: flex;
+    justify-content: end;
+    margin-top: -184px;
+    padding-right: 100px;
+}
+
+
